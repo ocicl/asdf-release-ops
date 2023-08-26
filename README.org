@@ -1,0 +1,9 @@
+* asdf-release-ops
+
+Useful operations for releasing software written in Common Lisp
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/daewok/asdf-release-ops.git |
+| commit  | 2f4ebc4                                            |
+| systems | asdf-release-ops                                   |
+|---------+----------------------------------------------------|
